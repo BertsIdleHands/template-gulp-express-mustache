@@ -4,3 +4,4 @@ bower_components
 .sass-cache
 node_modules
 public/js/bower_components
+npm-debug.log
